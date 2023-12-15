@@ -5,6 +5,7 @@
  🌱I’m currently learning about:
 - more deep in JavaScript.
 - more deep in React.JS and technologies related to that.
+- I also started learning Java ✌️
 
 📫 How to reach me:
 ## 🌐 Socials:
